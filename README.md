@@ -1,5 +1,5 @@
 # Happy-Graduation
-A simple congratulatory card celebrating ones graduation
+A simple congratulatory card celebrating someones' graduation
 
 ## sv
 
