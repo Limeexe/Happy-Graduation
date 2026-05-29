@@ -1,5 +1,5 @@
 # Happy-Graduation
-A simple congratulatory card celebrating someones' graduation
+A simple congratulatory card celebrating someones' graduation built using svelte framework. You can check it out at https://happy-graduation-etg.pages.dev/
 
 ## sv
 
